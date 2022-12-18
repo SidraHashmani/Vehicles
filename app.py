@@ -18,7 +18,7 @@ df.sample(n=10)
 # In[3]:
 
 
-df=df.drop(df.columns[0],axis =1)
+
 
 
 # In[4]:
